@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JogosFavoritos</string>
+    <string name="game_year">Lançamento: %1s</string>
+</resources>
